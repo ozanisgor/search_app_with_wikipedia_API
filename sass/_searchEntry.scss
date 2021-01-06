@@ -92,7 +92,7 @@
       color: $stats-color;
       border-right: thin solid $clear-button-color;
       @include mq(768px) {
-        padding: 0 1 rem;
+        padding: 0 1rem;
       }
     }
   }
